@@ -1,0 +1,79 @@
+* {
+  color: white;
+}
+.header {
+  background-color: rgba(45, 62, 80, 255);
+}
+
+
+.navbar-light .navbar-brand {
+  color: rgba(13, 163, 187, 255);
+}
+.navbar-light .navbar-brand:hover,
+.navbar-light .navbar-brand:focus {
+  color: rgba(13, 163, 187, 255);
+}
+.navbar-light .navbar-nav .nav-link {
+  color: white;
+}
+.navbar-light .navbar-nav .nav-link:hover,
+.navbar-light .navbar-nav .nav-link:focus {
+  color: rgba(13, 163, 187, 255);
+}
+.navbar-light .navbar-nav .show > .nav-link,
+.navbar-light .navbar-nav .nav-link.active {
+  color: rgba(13, 163, 187, 255);
+}
+.navbar-light .navbar-toggler {
+  color: rgba(13, 163, 187, 255);
+  border-color: rgba(0, 0, 0, 0.1);
+}
+.about_me {
+  background-color: rgba(13, 163, 187, 255);
+}
+
+.pro-img{
+  border: 8px solid rgba(45, 62, 80, 255);
+}
+.work-exp {
+  background-color: rgba(126, 140, 141, 255);
+}
+
+.pro-grap{
+    background-color:#35485c
+    ;
+    border-radius: 0;
+}
+.pro-web{
+  background-color: #0da3bb
+  ;
+  border-radius: 0;
+}
+.pro-social{
+  background-color: #16a087
+  ;
+  border-radius: 0;
+}
+.pro-bar{
+    background-color:#737e80
+    ;
+    border-radius: 0;
+}
+
+
+
+.contact {
+  background-color: rgba(23, 160, 134, 255);
+}
+.icons {
+  background-color: rgba(45, 62, 80, 255);
+  padding: 10px;
+}
+.submit {
+  background-color: rgba(45, 62, 80, 255);
+  color: white;
+}
+.footer {
+  background-color: rgba(45, 62, 80, 255);
+}
+
