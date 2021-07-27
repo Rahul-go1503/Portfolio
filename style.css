@@ -76,4 +76,8 @@
 .footer {
   background-color: rgba(45, 62, 80, 255);
 }
+.footer a i:hover{
+  color: rgba(13, 163, 187, 255);
+
+}
 
